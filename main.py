@@ -37,7 +37,6 @@ def change_word_and_remove():
     change_word()
 
 
-
 window = Tk()
 window.title("Flashy")
 window.config(padx=50, pady=50, bg=BACKGROUND_COLOR)
